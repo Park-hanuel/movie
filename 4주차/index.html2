@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width", initial-scale="1.0">
+    <title>Document Object Model</title>
+</head>
+<body>
+    <h1 id="brand-title" onclick="alert('click!');">
+        <a href="#">모두를 위한 코딩 강의 - 테킷</a>
+    </h1>
+    <h2>멋쟁이사자처럼 스쿨</h2>
+    <p>멋쟁이사자처럼 스쿨이<br>여러분을 환영합니다.</p>
+    <ol>
+        <li>
+            <a href="https://techit.education/">
+                프론트엔드 스쿨
+            </a>
+        </li>
+        <li>
+            <a href="https://techit.education/"
+                target="_blank">
+                백엔드 스쿨
+            </a>
+        </li>
+        <li>
+            <a href="#">
+                블록체인 스쿨
+            </a>
+        </li>
+    </ol>
+
+    <h2 class="sub-title">오리지널 클래스</h2>
+    <script src="dom.js"></script>
+</body>
+</html>

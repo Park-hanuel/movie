@@ -1,0 +1,25 @@
+{
+  "name": "sky",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "hi",
+  "scripts": {
+    "test": "hi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Park-hanuel/sky.git"
+  },
+  "keywords": [
+    "sky"
+  ],
+  "author": "sky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Park-hanuel/sky/issues"
+  },
+  "homepage": "https://github.com/Park-hanuel/sky#readme",
+  "dependencies": {
+    "mongoose": "^7.2.0"
+  }
+}
